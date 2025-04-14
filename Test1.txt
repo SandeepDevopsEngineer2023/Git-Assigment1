@@ -1,3 +1,1 @@
-this is first commit
-this is for x
-this is for y
+resuming git tool from scratch
